@@ -1,0 +1,4 @@
+Html: Consegui dissecar 90% do codigo, não implementei as divs mas pq seria algo que eu provavelmente iria perceber qnd fosse pro css(talvez)
+esqueci alguns atributos e confundi a logica do checkbox com o select e suas options(****esqueci total do select)
+Css: Apanhei bastante, acho que fiquei meio confuso pq queria deixar parecido mas ao mesmo tempo tinha esquecido muito das ações
+revisar todos tipos de box, dar uma verifada nos width e revisitar alguns conceitos de margin e padding.
